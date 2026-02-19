@@ -1,15 +1,38 @@
 # 🐾 Sistema de Base de Datos para Veterinaria
 
-## 📁 Archivos del Proyecto
+## ⚡ INICIO RÁPIDO PARA PRINCIPIANTES
 
-1. **GUIA_MYSQL_VETERINARIA.md** - Guía completa paso a paso
-2. **setup_veterinaria.sql** - Script para configurar la base de datos
-3. **consultas_prueba.sql** - Consultas de ejemplo para probar el sistema
-4. **README.md** - Este archivo
+### 🎯 ¿Primera vez aquí? Comienza aquí:
+
+1. **[INICIO_RAPIDO.md](INICIO_RAPIDO.md)** ← ⭐ **EMPIEZA AQUÍ** (5 minutos)
+2. **[NOTAS_IMPORTANTES.md](NOTAS_IMPORTANTES.md)** ← ⚠️ Lee esto primero
+3. Ejecuta: `.\Iniciar_MySQL.ps1` para arrancar MySQL
+4. Ejecuta: `.\Conectar_MySQL.ps1` para conectarte
 
 ---
 
-## 🚀 Inicio Rápido
+## 📁 Archivos del Proyecto
+
+### 🌟 Para Principiantes (USA ESTOS)
+- **[INICIO_RAPIDO.md](INICIO_RAPIDO.md)** - Guía rápida de 5 minutos
+- **[NOTAS_IMPORTANTES.md](NOTAS_IMPORTANTES.md)** - Limitaciones y advertencias
+- **[Iniciar_MySQL.ps1](Iniciar_MySQL.ps1)** - Script para iniciar MySQL automáticamente
+- **[Conectar_MySQL.ps1](Conectar_MySQL.ps1)** - Script para conectarse rápidamente
+- **[COMANDOS_TERMINAL.md](COMANDOS_TERMINAL.md)** - Comandos útiles para terminal
+
+### 📚 Documentación Completa
+- **[GUIA_MYSQL_VETERINARIA.md](GUIA_MYSQL_VETERINARIA.md)** - Guía completa paso a paso
+- **[INSTALACION_COMPLETADA.md](INSTALACION_COMPLETADA.md)** - Resumen de instalación
+- **[INSTRUCCIONES_DE_USO.md](INSTRUCCIONES_DE_USO.md)** - Instrucciones detalladas
+
+### 🗄️ Scripts SQL
+- **[setup_veterinaria.sql](setup_veterinaria.sql)** - Script completo (con ñ)
+- **[setup_simple.sql](setup_simple.sql)** - Script sin caracteres especiales ✅
+- **[consultas_prueba.sql](consultas_prueba.sql)** - 50+ consultas de ejemplo
+
+---
+
+## 🚀 Inicio Rápido (3 pasos)
 
 ### Paso 1: Instalar MySQL
 Sigue la sección "Instalación de MySQL" en [GUIA_MYSQL_VETERINARIA.md](GUIA_MYSQL_VETERINARIA.md)
